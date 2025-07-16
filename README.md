@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/ghoshRitesh12/aniwatch">
+  <a href="https://github.com/yoboymj/kumori-pluss">
     <img 
       src="https://repository-images.githubusercontent.com/838366965/5c03381b-d162-4e71-8eef-0ac44c284411" 
       alt="Logo" 
