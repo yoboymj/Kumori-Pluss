@@ -1,3 +1,7 @@
+## [2.23.4](https://github.com/ghoshRitesh12/aniwatch/compare/v2.23.3...v2.23.4) (2025-07-16)
+
+
+
 ## [2.23.3](https://github.com/ghoshRitesh12/aniwatch/compare/v2.23.2...v2.23.3) (2025-06-17)
 
 
@@ -27,10 +31,6 @@
 
 * add pre-commit hook for package.json formatting in release workflow ([ab68040](https://github.com/ghoshRitesh12/aniwatch/commit/ab680405d767ad175ee5acbcf811cd42fa549920))
 * add preCommit function to format package.json ([20b9de5](https://github.com/ghoshRitesh12/aniwatch/commit/20b9de5bc29cd1f3c8a1d80078680e7ae12aeec7))
-
-
-
-## [2.22.1](https://github.com/ghoshRitesh12/aniwatch/compare/v2.22.0...v2.22.1) (2025-05-11)
 
 
 
