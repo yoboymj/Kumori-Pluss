@@ -1,3 +1,7 @@
+## [2.23.6](https://github.com/ghoshRitesh12/aniwatch/compare/v2.23.5...v2.23.6) (2025-07-16)
+
+
+
 ## [2.23.5](https://github.com/ghoshRitesh12/aniwatch/compare/v2.23.4...v2.23.5) (2025-07-16)
 
 
@@ -21,10 +25,6 @@
 ### Reverts
 
 * domain name to hianimez.to ([bfc402a](https://github.com/ghoshRitesh12/aniwatch/commit/bfc402a4ccfb19950e8c8cb06413c14b80c0504e))
-
-
-
-## [2.23.1](https://github.com/ghoshRitesh12/aniwatch/compare/v2.23.0...v2.23.1) (2025-06-09)
 
 
 
